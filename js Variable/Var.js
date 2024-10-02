@@ -68,9 +68,9 @@ let allArr = [...arr,...arr2];
 let arr3 = [1,3,4,5,[3,5,7,[7,8,9]]];
 // console.log(arr3);
 // console.log(arr3.flat(Infinity));
-numb = 6;
-console.log(numb);
-let numb;
+// numb = 6;
+// console.log(numb);
+// let numb;
 
 
 
